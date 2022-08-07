@@ -2,7 +2,7 @@
 
 Very simple API using Gin
 - [go-api-tutorial](https://github.com/MadsAkselsen/go-api-tutorial)
-- 
+
 Very simple API for youtube channel stats
 - [go-rest-api-1](https://github.com/MadsAkselsen/go-rest-api-1)
 
